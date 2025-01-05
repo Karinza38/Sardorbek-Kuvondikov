@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Sardorbek Khuvondikhov
+ # 👋 Hi there, I'm Sardorbek Khuvondikhov
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in creating innovative solutions and contributing to open-source projects.
 - 💻 **Currently working on:** Developing web applications with modern JavaScript frameworks
 - 🧑‍💻 **Coder:** JavaScript
